@@ -5,13 +5,23 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Anaconda",
+		"Babel",
+		"BracketHighlighter",
 		"Emmet",
 		"GitGutter",
+		"JSHint",
+		"JSHint Gutter",
 		"Markdown Preview",
 		"Package Control",
+		"Python Flake8 Lint",
+		"Python PEP8 Autoformat",
+		"Sass",
 		"SideBarEnhancements",
+		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-pyflakes"
+		"SublimeLinter-pyflakes",
+		"Syntax Highlighting for Sass"
 	]
 }

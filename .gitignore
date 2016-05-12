@@ -1,7 +1,7 @@
 *.last-run
 *.system-ca-bundle
 *.cache/
-
+SublimeLinter
 
 
 Package Control.merged-ca-bundle

@@ -1,6 +1,7 @@
 *.last-run
 *.system-ca-bundle
 *.cache/
+*.tmTheme
 SublimeLinter/
 
 
